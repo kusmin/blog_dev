@@ -5,29 +5,6 @@
     <link>http://updevblog.com/es/series/</link>
     <description>Recent content in Series on blog de programacion</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://updevblog.com/es/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>series-setup</title>
-      <link>http://updevblog.com/es/series/series-setup/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://updevblog.com/es/series/series-setup/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Themes Guide</title>
-      <link>http://updevblog.com/es/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://updevblog.com/es/series/themes-guide/</guid>
-      
-        <description></description>
-      
-    </item>
-    
+    <language>pt-br</language><atom:link href="http://updevblog.com/es/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
